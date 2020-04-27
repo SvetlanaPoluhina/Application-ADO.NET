@@ -1,0 +1,8 @@
+C:\Users\1\Desktop\ADONET\UnitTestConnectionDB\obj\Debug\UnitTestConnectionDB.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ADONET\UnitTestConnectionDB\bin\Debug\UnitTestConnectionDB.dll
+C:\Users\1\Desktop\ADONET\UnitTestConnectionDB\bin\Debug\UnitTestConnectionDB.pdb
+C:\Users\1\Desktop\ADONET\UnitTestConnectionDB\bin\Debug\ADONET.exe
+C:\Users\1\Desktop\ADONET\UnitTestConnectionDB\bin\Debug\ADONET.pdb
+C:\Users\1\Desktop\ADONET\UnitTestConnectionDB\obj\Debug\UnitTestConnectionDB.dll
+C:\Users\1\Desktop\ADONET\UnitTestConnectionDB\obj\Debug\UnitTestConnectionDB.pdb
+C:\Users\1\Desktop\ADONET\UnitTestConnectionDB\bin\Debug\UnitTestConnectionDB.dll.config

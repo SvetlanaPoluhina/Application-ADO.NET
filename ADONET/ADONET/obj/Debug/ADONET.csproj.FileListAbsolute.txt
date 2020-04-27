@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\ADONET\ADONET\bin\Debug\ADONET.exe.config
+C:\Users\1\Desktop\ADONET\ADONET\bin\Debug\ADONET.exe
+C:\Users\1\Desktop\ADONET\ADONET\bin\Debug\ADONET.pdb
+C:\Users\1\Desktop\ADONET\ADONET\obj\Debug\ADONET.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\ADONET\ADONET\obj\Debug\ADONET.exe
+C:\Users\1\Desktop\ADONET\ADONET\obj\Debug\ADONET.pdb
